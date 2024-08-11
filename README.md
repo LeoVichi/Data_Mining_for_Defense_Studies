@@ -1,6 +1,8 @@
 # Text Mining and Analysis
 
-Este projeto realiza a mineração de textos, incluindo a análise de sentimentos, extração de frases importantes, classificação utilizando diferentes modelos e geração de relatórios em HTML.
+Este projeto realiza a mineração de textos, incluindo a análise de sentimentos, extração de frases importantes, classificação utilizando diferentes modelos e geração de relatórios em HTML. 
+
+Este projeto foi realizado originalmente para a produção do capítulo: Ameaças Eletromagnéticas escrito por mim em co-autoria com os alunos do Curso de Física da UESPI Camila Borges dos Santos e Francisco Gustavo da Silva Araújo para o livro Sementes de Futuro em Defesa, organizado pelo Prof. Dr. Bernardo Rodrigues (IRID/UFRJ) publicado pela Editora Alpheratz em Julho de 2024.
 
 ## Funcionalidades
 
