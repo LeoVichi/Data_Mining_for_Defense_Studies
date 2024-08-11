@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+nltk
+beautifulsoup4
+python-docx
+imblearn
