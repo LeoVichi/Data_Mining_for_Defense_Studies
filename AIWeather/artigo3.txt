@@ -1,0 +1,257 @@
+SPACE WEATHER, VOL. 5, S04004, doi:10.1029/2006SW000282, 2007
+
+Geomagnetically induced currents in an electric power transmission system at low latitudes in Brazil: A case study
+Nalin B. Trivedi,1 I´caro Vitorello,2 Wanderli Kabata,2 Severino L. G. Dutra,2 Antonio L. Padilha,2 Mauricio S. Bologna,2 Marcelo B. de Pa´dua,2
+Alexandre Pinhel Soares,3 Guilherme Sarcinelli Luz,3 Fabio de A. Pinto,3 Risto Pirjola,4 and Ari Viljanen4
+Received 13 September 2006; revised 30 November 2006; accepted 5 December 2006; published 7 April 2007.
+[1] Geomagnetically induced currents (GICs) are a ground end manifestation of space weather processes. During large geomagnetic storms, GICs flow between the grounding points of power transformers and along electric power transmission lines connecting the transformers. In high-latitude regions, damages to power transformers are reported where storm time geomagnetic variations are very rapid and large (>1000 nT), and hence the GICs as large as or even greater than 100 A end up flowing through the windings of power transformers. At low latitudes, geomagnetic variations are less severe, and hence much smaller GIC values are generally reported there. However, the flow of GICs and their effects on power transformers are complex processes, and careful evaluation is needed
+even in such low-latitude regions as, for example, Brazil. We report here a study on GIC measurements in Brazil conducted under a cooperative project between FURNAS (the Brazilian electric power company) and the National Institute for Space Research. During a large geomagnetic storm, which took place on 7 --10 November 2004, the GIC amplitudes, measured on the basis of geomagnetic variations in 500 kV power transmission lines in the S --E region of Brazil, were found to be around 15 A.
+Citation: Trivedi, N. B., et al. (2007), Geomagnetically induced currents in an electric power transmission system at low latitudes in Brazil: A case study, Space Weather, 5, S04004, doi:10.1029/2006SW000282.
+
+
+1. Introduction
+ [2] The Sun continuously emits solar plasma and engulfs the entire solar system with the plasma. The interaction of solar plasma with the Earth’s magnetic field affects the physical processes in the magnetosphere and ionosphere, and their net result is recorded at the Earth’s surface as variations of geomagnetic and geoelectric fields. Geomagnetically induced currents (GICs) are a ground end manifestation of such space weather processes. Geo- magnetic variations at the surface of the Earth induce electric currents in the crust and mantle of the Earth. The depth and strength of the induced electric field depend upon the frequency of the geomagnetic variations
+
+     1Observato´ rio Nacional, Ministe´rio da Cieˆncia e Tecnologia, Rio de Janeiro, Brazil.
+     2National Institute for Space Research, Sa˜o Jose´ dos Campos, Brazil.
+3FURNAS Centrais Ele´tricas S.A., Rio de Janeiro, Brazil.
+     4Space Research Unit, Finnish Meteorological Institute, Helsinki, Finland.
+
+and the distribution of the conductivity in the Earth. Geomagnetically induced currents end up flowing through electrical power transmission systems as shown in Figure 1.
+  [3] The geoelectric field induced by geomagnetic varia- tions drives GICs between directly earthed neutral points of power transformers having a star connection and the ground (Figure 1). Hence GICs also flow through trans- former windings and in transmission lines between trans- formers. As schematically indicated in Figure 1, GIC are equally divided between the three phase conductors. As the typical periodic variations of GIC fall in the range of 100 -- 1000 s, its effect on the operation of the transformer designed for 50/60 Hz is close to that of a direct current. GICs of up to 200 A are reported to flow in the trans- formers situated in auroral regions in the United States, Canada, Finland, and Sweden when geomagnetic storms are in progress [Kappenman, 2003; Price, 2002; Lahtinen and Elovaara, 2002; Pirjola et al., 2005]. These occurrences saturate transformer cores and may lead to various dam- ages possibly causing large-scale power failures men-
+
+
+
+Copyright 2007 by the American Geophysical Union
+
+S04004
+
+1 of 10
+
+
+
+
+Figure 1. Schematic diagram of GIC flow in an electric power transmission system (modified version of a figure by Molinski [2002]).
+
+
+tioned, for example, by Pirjola [2000, 2002] and Kappenman [2003]. The most famous problematic GIC event so far occurred in the Hydro-Quebec power system in Canada during an intense geomagnetic storm in March 1989 [Bolduc, 2002]. Large geomagnetic variations with signifi- cant geoelectric fields and hence high GIC magnitudes take place during geomagnetic storms in the auroral regions. It is known that GICs are functions of various parameters including the rate of change (i.e., the time derivative) of the geomagnetic field, the electric resistivity of the Earth, and the geometry and resistances of the power grid considered. The impacts of GICs depend on certain engineering aspects of the electrical power machinery. Hence conventional wisdom does not always hold for low-latitude regions where GICs should be small and harmless as a rule. Partly on the basis of some vague rumors, GIC problems have obviously also occurred in power grids located in midlatitude and low-latitude areas in the past. In this respect, Poppe and Jorden [2006] give an example of a transformer in South Africa that was dam- aged by GICs during the famous Halloween storm in October -- November 2003. Low- and midlatitude pipelines in Africa and South America have also experienced GIC effects [e.g., Barker and Skinner, 1980; Ogunade, 1986; Osella and Favetto, 2000].
+ [4] All these issues have led us to undertake a project in cooperation with the electric power company in Brazil, FURNAS and the federal government national research institute Instituto Nacional de Pesquisas Espaciais (INPE) to study GICS and their effects on the power transmission grid in southeastern Brazil. This project has been in progress from the first quarter of 2004. We report here the first results of a study on GIC measurements in Brazil. Full understanding of GIC needs a study of the chain of physical processes linked with space weather changes during geomagnetic storms and also with the effects of the resulting geomagnetic variations on the solid Earth
+
+with a certain conductivity distribution. The authors of this paper at INPE are involved in both of these areas by conducting continuous geomagnetic measurements at several points in Brazil for studying space geophysics and making magnetotelluric (MT) and geomagnetic deep sounding experiments to identify conductive geologic structures in Brazil.
+
+2. Selection of the Site for GIC Measurements
+  [5] The sites for GIC measurements were carefully selected with the help of the engineering staff of FURNAS. The two transmission lines (TLs), namely, Itumbiara -- Sa˜o Simao and Pimenta-Barreiro, used in the study, happen to be in the nearly geomagnetic east -- west direction. Such a choice can be argued by stating that statistically, east -- west geoelectric fields tend to be somewhat larger than north -- south fields, thus producing larger GICs in east -- west oriented transmission lines. On the other hand, the GIC flow pattern in a power grid is complex, which means that GICs observed in a particular line may have flowed there from some other parts of the network. GICs in a grid can be calculated by applying complicated matrix formu- las [Lehtinen and Pirjola, 1985]. To get larger GIC values, the selected TL should be passing over regions having highly resistive layers in the crust and upper mantle, which result in larger horizontal geoelectric fields.
+  [6] Some of the very long transmission lines in the east -- west direction have capacitors installed in series that block the DC current flow. Consequently, those TLs would be unsuitable for measuring the DC-like GIC. The TL selected has total lengths between 150 and 200 km.
+  [7] The amplitudes of GIC signals are known to be functions of the electric conductivity of the subsurface of the Earth [Pirjola, 2000, 2002; Kappenman, 2003]. Hence the resistivity structures should be known down to the depths of several tens or a couple of hundred kilometers under-
+
+
+2 of 10
+
+
+
+
+Figure 2. Geographic locations of the MT profile (blue) and the Itumbiara --Sa˜o Sima˜o (red) and Pimenta-Barreiro transmission lines (yellow) in western Minas Gerais.
+
+
+neath the area of the power grid chosen for GIC studies. This information needed for GIC investigations can be obtained by employing the techniques of magnetotelluric and geomagnetic deep sounding.
+ [8] The locations of the two transmission lines chosen for the present GIC study, namely, Itumbiara -- Sa˜o Sima˜o and Pimenta-Barreiro, are presented in Figure 2. The region between the two selected TLs was extensively studied using MT sounding techniques. The profile of several MT soundings is indicated by dark blue dots in Figure 2. A two-dimensional conductivity-depth model for the area between the two selected TLs is shown in Figure 3 [Bologna et al., 2001]. The measurements of geomagnetic field variations under the two selected TLs were started in August 2004 by installing three-component fluxgate mag- netometers constructed at INPE [Kabata et al., 2004; Trivedi et al., 1995]. The selected transmission lines Itumbiara --
+
+Sa˜o Sima˜o and Pimenta-Barreiro, situated in the western region of the state of Minas Gerais, are about 700 and 300 km, respectively, from the magnetic observatory of Vassouras (Rio de Janeiro (RJ)), our reference station for GIC investigation. These distances are considered acceptable for the low-latitude region where geomagnetic field variations are generally uniform.
+  [9] A current meter based on a pair of Hall sensors for GIC measurements was installed at Itumbiara substation only in August of 2005. After the initial difficulties, a systematic continuous operation was started by the end of September 2005. By this time, the occurrences of geo- magnetic storms became rare. The Hall detectors for the current meter were installed directly on the surface of the cable linking the neutral point of the 500 kV transformer and the Earth. The distance between the surface of the Hall detector and the copper surface of the cable was
+
+
+
+
+Figure 3. Vertical section of the two-dimensional (2-D) conductivity model of the MT profile in western Minas Gerais showing resistivity values of each layer in ohm m [Bologna et al., 2001].
+
+3 of 10
+
+
+
+
+Figure 4. Variations of the magnetic horizontal component H during the magnetic storm on 7 --10 November 2004 under the transmission line Pimenta-Barreiro and at the reference station, namely, Vassouras. Calculated GIC variations are shown in the third plot, and the last plot corresponds to dH/dt at Vassouras.
+
+
+adjusted to be 1 mm. Unfortunately, no geomagnetic storms have occurred since the installation of the Hall sensor, and hence no GIC event has been recorded at the transformer.
+
+3. GIC Measurements and Data Analysis
+ [10] The method adopted for GIC measurements is direct and simple as described by Viljanen and Pirjola [1994]. Continuous measurements of horizontal geomag- netic field variations (X is the geographic north compo- nent and Y is the geographic east component) were conducted by installing fluxgate magnetometers directly under the power transmission lines (TLs) carrying several hundred kilovolts at high current ratings of hundreds and thousands of amperes. The fluxgate magnetometers were battery operated, and the data were stored in flash mem- ories at the sites with a sampling rate of 1 min. The sites
+
+were visited periodically to retrieve the data from the filled memories and to replace both the 12 V batteries and the flash memories. The horizontal geomagnetic field data obtained under the TLs were compared with the simultaneous data at our reference station, i.e., the mag- netic observatory of Vassouras, RJ. The magnetic field measured under the TL would measure the sum of the natural geomagnetic variations and the magnetic field produced by a GIC flowing in the transmission line. If one subtracted geomagnetic field variations recorded at the reference station from those recorded under the TL, magnetic variations corresponding to the GIC would remain. The magnitude of the GIC was calculated using the Biot-Savart law.
+  [11] As mentioned in section 2, geomagnetic measure- ments under the TLs were started in August 2004. This turned out to be very good, as we were able to record data during a large geomagnetic storm that occurred in the
+
+
+4 of 10
+
+
+
+
+Figure 5. Same as Figure 4 for the data obtained under another transmission line Itumbiara --Sa˜o Sima˜o.
+
+
+period of 7 -- 11 November 2004. Data from both stations under the TLs (i.e., Itumbiara -- Sa˜o Sima˜o (ISS) and Pimenta Barreiro (PB)) were thus available. We processed the data for 4 full days (96 hours) starting from 0000 UT on
+7 November to 2400 UT on 10 November. Since the measurements used in this work were taken at a sampling interval of 1 min, the total length of the data was 5760 data points. Figu???r??e????4????d??e? picts variations of the horizontal inten-
+sity H =  X2  Y2 calculated from the X and Y compo-
+nents recorded by the magnetometer under the TLs at PB and at the reference station Vassouras (VSS), com- puted GIC in the TLs at PB, and dH/dt at Vassouras. Figure 5 is exactly same as Figure 4 but for the Itumbiara --Sa˜o Simao transmission line. After the var- iations in H observed at Vassouras were subtracted from the corresponding H observed under the TLs, the residual variations were considered to be generated by GIC flowing in the TLs. The well-known Biot-Savart law was used to calculate GICs. The Biot-Savart law
+
+expresses the magnetic field created by a line current and is given by B = mI/2pr, where B is the magnetic field obtained by the operation B = B (measured under TLs) B (measured at Vassouras) and caused by GIC (denoted by I) in the TLs; r is the distance of the magnetometer from the TL conductor; and m is the permeability of air (m = 400p nH m-1). The intensity of GIC currents was derived using the simplified numer- ical formula of the Biot-Savart law as I = B*r/200, where
+I is given in A, B is given in nT, and r is given in m.
+  [12] GICs were derived from the data collected under the TLs for each day. However, clearly observable values seem to appear only during periods of geomagnetic storms. In Figures 4 and 5 the first GIC signature was seen between 16.6 hours to 30 hours after 0000 UT of 7 November, corresponding to 1640 UT on 7 November and 0600 UT on 8 November, and the second GIC signa- ture appeared between 66.6 hours to 70.6 hours after 0000 UT of 7 November, corresponding to 1840 UT on
+
+
+5 of 10
+
+
+
+
+Figure 6. Similar to Figure 5 for the data obtained under Itumbiara --Sa˜o Sima˜o TL. However, the data under the TL and the reference station are band-pass filtered in the period range of 3 -- 15 min.
+
+
+9 November and 0440 UT on 10 November. The peak amplitudes of GICs in both transmission lines were around 15 A. Unfortunately, the data under the TLs have noisy spikes, and DC shifts and subsequent slow recovery to the former level after a sudden impulsive geomagnetic variation took place. Hence it was a difficult task to correct the magnetic data under TLs. This was done very carefully by comparing piece by piece the data obtained under the TLs with the reference station. It was not possible to correct the low-frequency component introduced by the recovery excursion to the former level after the DC shift in the magnetic variation. The origin of the low-frequency component in GICs is purely technical. The low-frequency component from magnetic data was removed by band- pass filtering (3 to 15 min) all the data used in Figure 5. The result is shown in Figure 6. One can note that the envelopes of GIC signal do appear clearly, and the mag- nitudes of calculated GIC appear a bit smaller. However, its major portion does not seem to change very much after
+
+the operation of the band-pass filter. The fluxgate magnetometers employed in GIC measurements were constructed at our institute for operation in geomagnetic deep sounding experiments, and hence they lacked better shielding. It is planned to redesign the magnetometers for future GIC measurements.
+
+4. Discussion
+  [13] One notes from the results obtained during the November 2004 geomagnetic storm presented in Figures 4 and 5 that GIC events or GIC envelopes are about 15 -- 20 A in the component H. Of course, there are some differences in the size of GIC envelopes between the two transmission lines ISS and PB. These differences could be ascribed to the configuration of the power grid and to the locations of the particular transmission lines. David Boteler, in his talk at the Scientific Committee on Solar-Terrestrial Physics meeting in Rio de Janeiro, Brazil, in March 2006 mentioned that the GIC events in October
+
+
+
+6 of 10
+
+
+
+
+Figure 7. ACE observations of interplanetary magnetic field Bz (GSM), interplanetary electric field Ey, and the solar wind dynamic pressure Pdyn and the SYM(H) and ASYM(H) indices on 7 -- 10 November 2004.
+
+
+2003 (the so-called Halloween storm) were global, and this space weather event caused malfunction of a Japanese satellite, a power outage in Sweden [Pulkkinen et al., 2005], and disruption in air traffic and posed a radiation threat to astronauts on the International Space Station. Kappenman [2005] reports on a GIC study during the Halloween storm and notes that sustained disturbed geomagnetic condi- tions at low and equatorial latitudes were very likely associated with the ring current intensifications that served as the source of GICs in the midlatitude region of North America. The solar wind parameters obtained from the ACE satellite and describing the space weather conditions and the SYM(H) and ASYM(H) indices are presented in Figure 7 for the geomagnetic storm on 7 -- 11 November 2004, which may be considered comparable to the Halloween storm, though it remained a little less severe. As the ACE satellite is located at the Lagrangian point L1 between the Sun and the Earth, variations in the solar wind parameters naturally precede ground-based
+
+effects. No attempt has been made to adjust this time lag. If one tries to relate the plots of the solar wind electric field and ASYM(H) indices with computed GIC variations presented in Figures 4 and 5, there is an unmistakable visual correlation between the GIC envelopes, the corresponding solar wind variations, and the peaks of ASYM(H). It is known that the maxima of the ASYM(H) plot are related to particle injections into the ring currents. Thus the results of GIC measurements presented here support the observations made by Kappenman [2005] regarding the association of GIC with the intensification of the ring current. However, FURNAS, the Brazilian power company, did not encounter any deleterious effects on their power equipment during these two GIC events in the November 2004 storm [Soares et al., 2006]. Obviously, the amplitudes of GIC were not big enough to drive the transformers at the power substations into saturation. Anyway, what can be inferred from these results is that GIC do appear in Brazil. Eventually, if a very large
+
+
+
+7 of 10
+
+
+
+
+
+ 
+
+Figure 8. Calculated Ex (north-south geoelectric field) from the geomagnetic data at the Vassouras magnetic observatory by using a 1-D conductivity distribution in the area of the power transmission grid.
+
+
+
+storm similar to that recorded at the magnetic observatory of Colaba in India on 1 -- 2 September 1859 should be repeated once again, we may certainly see the damaging effects of GIC in Brazil, too. This storm of 1 -- 2 September 1859 was analyzed by Tsurutani et al. [2003], and they found that H at a low-latitude station of Colaba was depressed by
+1600 nT.
+ [14] It can be observed from Figures 4 and 5 that 1 min time derivatives of the H component recorded at Vassouras resemble very much GICs. Viljanen [1998] and Viljanen et al. [2001] have studied the relationship of GICs with local geomagnetic variations at a reference station. They have also emphasized that according to Faraday’s law, the eastward electric field and the time derivative of the northward magnetic component are coupled. It is convenient to relate GIC and dB/dt and to find an approximately constant multiplier to yield GICs in amperes from dB/dt as reported by Jacko Koen and Trevor Gaunt (Union Radio Scientifique Internationale, http:// ursiweb.intec.ugent.be/Proceedings/ProcGA02/papers/ p1065.pdf, August 2002).
+ [15] Computation of the surface geoelectric field and subsequently GICs is possible using geomagnetic varia- tion data at any location where a one-dimensional model of the ground conductivity distribution is available [Trichtchenko and Boteler, 2004; Thomson et al., 2005, and references therein]. As we have the knowledge of the conductivity distribution from the extensive MT measure- ments in the area of the GIC investigations in Brazil, i.e., between the two transmission lines ISS and PB, the algorithm described by Trichtchenko and Boteler [2004] can be used to compute the northward electric component Ex
+
+and the eastward electric component Ey from the recorded geomagnetic field variations in Y and X during the storm of 7 -- 11 November 2004 (or during any other event). Geomagnetic data from the Vassouras observatory applied here are recorded at a sampling interval of 1 min. Hence the calculated Ex and Ey for 4 days have the length of 5760 points, and they are shown in Figures 8 and 9. (Note the different vertical scales in Figures 8 and 9). The packets of Ex and Ey pulsations naturally correspond to geomagnetic variations, but most impor- tant is that Ex and Ey are similar to GICs derived from magnetic variations recorded under the transmission lines and shown in Figures 4 and 5. This reinforces that geoelectric fields drive GICs in power transformers and in transmission lines connecting them. It is implicit in the magnetotelluric equation that the subsurface conductivity and the impedance of the Earth are functions of the frequency. Hence, although geomagnetic variations exhibit long periods, geoelectric field variations show salient short periods and are attenuated at long periods. This is the reason why slowly varying long-period large geomagnetic variations do not produce large GICs. Only intense varia- tions with periods less than about 30 min produce GICs capable of affecting power systems.
+
+5. Conclusions
+  [16] It is shown that GICs do occur at low latitudes. Amplitudes of GIC flowing in the transmission lines of the Itumbiara -- Sa˜o Sima˜o and Pimenta-Barreiro regions in Brazil were found to be around 15 -- 20 A during the November 2004 geomagnetic storm. These are the first GIC measurements in Brazil. As the amplitudes of GICs
+
+
+8 of 10
+
+
+
+	
+
+Figure 9. Calculated Ey (east-west geoelectric field) from the geomagnetic data at the Vassouras magnetic observatory by using a 1-D conductivity distribution in the area of the power transmission grid.
+
+
+are much more related to the time derivative of the geomagnetic field and the resistivity of the Earth’s crust and upper mantle than to the range of the geomagnetic storm, it is not very simple to generalize that electric power systems in the low-latitude regions, e.g., in Brazil, would not be affected by GICs. This conclusion is empha- sized by the fact that GIC magnitudes and their possible harmful impacts also depend greatly on the configuration, resistances, and other engineering details of the power system. What is needed is continuous monitoring of space weather parameters and long-term recording of GICs by magnetometers under transmission lines and by current meters installed at the neutral leads of transformers operating at power substations.
+
+  [17] Acknowledgments. One of the authors (N.B.T.) is grateful to Icaro Vitorello for giving him the opportunity to work on this project, partially funded by FURNAS Centrais Ele´tricas S.A., Rio de Janeiro, Brazil. We also thank the engineering staff of FURNAS and INPE for the close collab- oration and the anonymous reviewers.
+References
+Barker, R. H., and N. J. Skinner (1980), Flow of electric currents of telluric origin in a long metal pipeline and their effect in relation to corrosion control, Mater. Performance, 19(2), 25 -- 28.
+Bolduc, L. (2002), GIC observations and studies in the Hydro-Que´bec power system, J. Atmos. Sol. Terr. Phys., 64, 1793 -- 1802.
+Bologna, M. S., A. L. Padilha, and I. Vitorello (2001), Geophysical signature of the deep lithosphere underlying the Alto Parana?´ba igneous province: Constraining upper mantle properties, Rev. Bras. Geocienc., 31(4), 471 -- 474.
+Kabata, W., I. Vitorello, M. Banik, N. B. Trivedi, and W. C. Cunha (2004), Magnetoˆ metros fluxgates amorfos robustos para pesquisa em sondagens magne´ ticas profundas no Brasil, Rev. Fis. Appl. Instrum., 17(3), 99 -- 109.
+
+Kappenman, J. G. (2003), Storm sudden commencement events and the associated geomagnetically induced current risks to ground- based systems at low-latitude and midlatitude locations, Space Weather, 1(3), 1016, doi:10.1029/2003SW000009.
+Kappenman, J. G. (2005), An overview of the impulsive geomagnetic field disturbances and power grid impacts associated with the vio- lent Sun-Earth connection events of 29 -- 31 October 2003 and a comparative evaluation with other contemporary storms, Space Weather, 3, S08C01, doi:10.1029/2004SW000128.
+Lahtinen, M., and J. Elovaara (2002), GIC occurrences and GIC test for 400kV system transformer, IEEE Trans. Power Delivery, 17(2), 555 -- 561.
+Lehtinen, M., and R. Pirjola (1985), Currents produced in earthed conductor networks by geomagnetically-induced electric fields, Ann. Geophys., 3(4), 479 -- 484.
+Molinski, T. S. (2002), Why utilities respect geomagnetically induced currents, J. Atmos. Sol. Terr. Phys., 64, 1765 -- 1778.
+Ogunade, S. (1986), Induced electromagnetic fields in oil pipelines under electrojet current sources, Phys. Earth Planet. Inter., 43, 307 -- 315.
+Osella, A., and A. Favetto (2000), Effects of soil resistivity on currents induced on pipelines, J. Appl. Geophys., 44, 303 -- 312.
+Pirjola, R. (2000), Geomagnetically induced currents during magnetic storms, IEEE Trans. Plasma Sci., 28(6), 1869 -- 1873.
+Pirjola, R. (2002), Fundamentals about the flow of geomagnetically induced currents in a power system applicable to estimating space weather risks and design remedies, J. Atmos. Sol. Terr. Phys., 64, 1967 -- 1972.
+Pirjola, R., K. Kauristie, H. Lappalainen, and A. Pulkkinen (2005), Space weather risk, Space Weather, 3, S02A02, doi:10.1029/ 2004SW000112.
+Poppe, B. B., and K. P. Jorden (2006), Sentinels of the Sun: Forecasting Space Weather, 196 pp., Johnson, Boulder, Colo.
+Price, P. R. (2002), Geomagnetically induced current effects on trans- formers, IEEE Trans. Power Delivery, 17(4), 1002 -- 1008.
+Pulkkinen, A., S. Lindahl, A. Viljanen, and R. Pirjola (2005), Geomag- netic storm of 29 -- 31 October 2003: Geomagnetically induced cur- rents and their relation to problems in the Swedish high-voltage power transmission system, Space Weather, 3, S08C03, doi:10.1029/ 2004SW000123.
+Soares, A. P., N. B. Trivedi, I. Vitorello, G. S. Luz, W. Kabata, F. A. Pinto, A. L. Padilha, S. Mantuano Filho, S. Dutra, and M. J. Barbosa
+
+
+
+9 of 10
+
+
+
+
+(2006), Evaluation of geomagnetically induced current (GIC) effects on electric power transmission lines of southeastern Brazil, paper presented at Xth Symposium of Specialists In Electric Operational and Expansion Planning, Braz. Cigre´, Floriano´ polis, Brazil, May.
+Thomson, A. W. P., A. J. McKay, E. Clarke, and S. J. Reay (2005), Surface electric fields and geomagnetically induced currents in the Scottish Power grid during the 30 October 2003 geomagnetic storm, Space Weather, 3, S11002, doi:10.1029/2005SW000156.
+Trichtchenko, L., and D. Boteler (2004), Modeling geomagnetically induced currents using geomagnetic indices and data, IEEE Trans. Plasma Sci., 32(4), 1459 -- 1467.
+Trivedi, N. B., F. X. K. Ogura, J. C. Andrade, J. M. de la Costa, and
+L. M. Barreto (1995), A ring core magnetometer for IEEY Program in Brazil, Rev. Bras. Geof?´s., 13, 37 -- 43.
+Tsurutani, B. T., W. D. Gonzalez, G. S. Lakhina, and S. Alex (2003), The extreme magnetic storm of 1 -- 2 September 1859, J. Geophys. Res., 108(A7), 1268, doi:10.1029/2002JA009504.
+Viljanen, A. (1998), Relation of geomagnetically induced currents and local geomagnetic variations, IEEE Trans. Power Delivery, 13(4), 1285 -- 1290.
+
+Viljanen, A., and R. Pirjola (1994), Geomagnetically induced currents in the Finnish high-voltage power system, a geophysical review, Surv. Geophys., 15(4), 383 -- 408.
+Viljanen, A., H. Nevanlinna, K. Pajunpa¨ a¨ , and A. Pulkkinen (2001), Time derivative of the horizontal geomagnetic field as an activity indicator, Ann. Geophys., 19, 1107 -- 1118.
+
+---M---.--S-.--B--o-l-o-g--n--a-,-M. B. de Pa´dua, S. L. G. Dutra, W. Kabata, A. L. Padilha, and I´. Vitorello, National Institute for Space Research,
+C.P. 515, 12245-970, Sa˜o Jose´ dos Campos, SP, Brazil.
+  G. S. Luz, F. A. Pinto, and A. P. Soares, FURNAS Centrais Ele´tricas S.A., Rua Real Grandeza 219, 22.281-031, Rio de Janeiro, RJ, Brazil.
+  R. Pirjola and A. Viljanen, Space Research Unit, Finnish Meteor- ological Institute, FIN-00101 Helsinki, Finland.
+  N. B. Trivedi, Observato´ rio Nacional, ON, MCT, Rua General Jose´ Cristino 77, Sa˜o Cristo´ va˜o, Rio de Janeiro, 20921-400 RJ, Brazil. (ntrivedi@on.br)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 of 10
+
+
